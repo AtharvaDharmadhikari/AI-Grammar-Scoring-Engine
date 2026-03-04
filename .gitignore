@@ -1,0 +1,23 @@
+# Virtual environment
+GramScore/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model checkpoints (optional if large)
+*.pt
+*.pth
+
+# Python environment files
+.env
